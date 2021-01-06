@@ -1,6 +1,6 @@
 # The Sparks Foundation Grip Task-1
 
-A new Flutter application.
+Mobie App Development
 
 ## Social Media Integration
 
