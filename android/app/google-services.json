@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544329785333",
+    "project_id": "tsf-sm-integration",
+    "storage_bucket": "tsf-sm-integration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544329785333:android:e5366b672dac41c3894abc",
+        "android_client_info": {
+          "package_name": "com.tsf.tsf_sm_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544329785333-v5aimdrchdn23ah71pkuugsklp7gg26j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tsf.tsf_sm_integration",
+            "certificate_hash": "6bef19f1495a825b13b051740d9b420306caa8e5"
+          }
+        },
+        {
+          "client_id": "544329785333-rp38d3h0tjgrphl3q1aaoivmd4rbjep0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6GDivgE4mDgLOa_ywMaVeD-wdRVnNjcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544329785333-rp38d3h0tjgrphl3q1aaoivmd4rbjep0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
